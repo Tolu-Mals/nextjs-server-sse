@@ -2,7 +2,7 @@
 import { fetchEventSource } from "@microsoft/fetch-event-source";
 import { useState } from "react";
 
-const page = () => {
+const Page = () => {
   const [message, setMessage] = useState("");
 
   const handleClick = async () => {
@@ -33,4 +33,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;
