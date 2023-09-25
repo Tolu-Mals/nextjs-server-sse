@@ -16,7 +16,7 @@ const Page = () => {
   };
 
   return (
-    <div className="w-full max-w-md min-w-[200px]">
+    <div className="w-full p-4 max-w-md min-w-[200px]">
       <button
         onClick={handleClick}
         className="bg-blue-500 px-4 py-2 rounded-md text-white"
