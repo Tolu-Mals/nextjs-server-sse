@@ -1,4 +1,5 @@
-# How to make SSE work with next app dir ?
+# Consuming SSE with POST Req in Nextjs App Dir SSE With POST request
 follow this repo to find out
 
-Live Demo: https://nextjs-app-dir-sse.vercel.app
+### Note
+When using @fortaine/fetch-event-source, you can't use relative paths like you would normally do in nextjs, you have to use absolute paths
