@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@microsoft/fetch-event-source": "^2.0.1",
+    "@fortaine/fetch-event-source": "^3.0.6",
     "@types/node": "20.6.5",
     "@types/react": "18.2.22",
     "@types/react-dom": "18.2.7",
